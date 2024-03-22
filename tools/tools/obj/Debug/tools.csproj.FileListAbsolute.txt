@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\galiba\tools\tools\bin\Debug\tools.exe.config
+C:\Users\HP\Desktop\galiba\tools\tools\bin\Debug\tools.exe
+C:\Users\HP\Desktop\galiba\tools\tools\bin\Debug\tools.pdb
+C:\Users\HP\Desktop\galiba\tools\tools\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Desktop\galiba\tools\tools\bin\Debug\System.Drawing.Common.pdb
+C:\Users\HP\Desktop\galiba\tools\tools\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Desktop\galiba\tools\tools\obj\Debug\tools.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\galiba\tools\tools\obj\Debug\tools.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\galiba\tools\tools\obj\Debug\tools.csproj.Up2Date
+C:\Users\HP\Desktop\galiba\tools\tools\obj\Debug\tools.exe
+C:\Users\HP\Desktop\galiba\tools\tools\obj\Debug\tools.pdb
